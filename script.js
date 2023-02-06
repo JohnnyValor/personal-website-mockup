@@ -1,3 +1,4 @@
+// for each repo, add text node with repo "name" and append element to "list"
 function newRepo(name) {
   let addRepo = document.createElement("li");
   let textNode = document.createTextNode(name);
@@ -5,6 +6,7 @@ function newRepo(name) {
   document.getElementById("list").appendChild(addRepo);
 }
 
+// event handler for readystatechange. when complete, calls above function with repo "name".
 let gitHub = new XMLHttpRequest(); 
 gitHub.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) { 
