@@ -28,4 +28,4 @@ After learning these concepts, I was challenged to create a personal website wit
     List of tech related skills
     Dynamically listed Github repo
     Sticky footer
-    Styled with plain CSS
+    Styled with CSS
