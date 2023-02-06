@@ -1,4 +1,4 @@
-This was my first attempt at a personal website.
+This was my first attempt at a personal website. My second project built.
 
 Concepts learned:
 
