@@ -1,4 +1,4 @@
-This was my first attempt at a personal website. My second project built.
+This was my first attempt at a personal website with a dynamically listed github repository. Built with HTML, CSS and JavaScript.
 
 Concepts learned:
 
@@ -6,13 +6,11 @@ Concepts learned:
     Dev Tools
     Console Logging
     Variables: var, const, let
-    Data Types
+    Data Types: Potential, null, undefined
     This Keyword and Operators/Spread
-    Decision Making: Arrow Functions, Switch, Error Handling
-    Ternary Operator
+    Decision Making: Arrow Functions, Switch, Error Handling, Ternary Operators
     JavaSript OOP: Class, Method, Instantiating, Inheritence
-    Flexbox
-    Bootstrap
+    Flexbox & Bootstrap
     Interacting with the DOM
     Regex
     jQuery and Ajax
