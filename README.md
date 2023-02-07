@@ -16,7 +16,7 @@ Concepts learned:
     jQuery and Ajax
     
     
-After learning these concepts, I was challenged to create a personal website with the following:
+After learning these concepts, I decided to create a personal website with the following:
 
     Flexbox or Bootstrap
     Header with desired job title
